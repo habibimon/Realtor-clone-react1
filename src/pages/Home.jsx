@@ -1,6 +1,7 @@
 export default function Home() {
     return (
-        <div className="">Home</div>
+        <button className="btn btn-outline btn-success">Success</button>
+        
     )
 }
 
